@@ -66,7 +66,7 @@ require([
     environment: {
       background: {
         type: "color",
-        color: [187, 175, 165, 1]
+        color: [0x76695E]
       },
       starsEnabled: false,
       atmosphereEnabled: false
@@ -93,7 +93,7 @@ require([
         50.20596275,
         13086004.69753
       ],
-      heading: 0.24,
+      heading: 0.05,
       tilt: 0.05
     }
   });
