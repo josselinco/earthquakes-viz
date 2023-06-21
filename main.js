@@ -66,7 +66,7 @@ require([
     environment: {
       background: {
         type: "color",
-        color: "#76695E"
+        color: "#453b33"
       },
       starsEnabled: false,
       atmosphereEnabled: false
