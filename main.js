@@ -66,7 +66,7 @@ require([
     environment: {
       background: {
         type: "color",
-        color: [0x76695E]
+        color: "#76695E"
       },
       starsEnabled: false,
       atmosphereEnabled: false
@@ -75,7 +75,7 @@ require([
       components: []
     },
     highlightOptions: {
-      color: "cyan"
+      color: "#ada199"
     },
     padding: {
       bottom: 200
